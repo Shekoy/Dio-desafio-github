@@ -5,11 +5,11 @@
 
 **#Matérias**
 
-- Lógica de programação
+- [Lógica de programação](https://github.com/Shekoy/Dio-desafio-github/tree/main/Lógica%20de%20Programação)
 
-- Git e Github
+- [Git e Github](https://github.com/Shekoy/Dio-desafio-github/tree/main/Git%20e%20Github)
 
-- Kernel Linux
+- [Kernel Linux](https://github.com/Shekoy/Dio-desafio-github/tree/main/Linux)
 
   
 
