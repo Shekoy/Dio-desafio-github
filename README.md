@@ -16,8 +16,8 @@
 **#Softwares**
 
 - [VMware Workstation](https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html)
-- [Ubunto Server](https://ubuntu.com/download)
-- [Ubunto](https://ubuntu.com/download)
+- [Ubuntu Server](https://ubuntu.com/download)
+- [Ubuntu](https://ubuntu.com/download)
 - [Putty](https://www.putty.org)
 - [Git](https://git-scm.com/downloads)
 
